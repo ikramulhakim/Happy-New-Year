@@ -443,3 +443,10 @@ font-weight: 400;
 line-height: 32px;
 
 }
+
+.images{
+    display: flex;
+    gap: 16px;
+    margin: 50px;
+    margin-left: 140px;
+}
